@@ -118,7 +118,7 @@ button:hover {
 }
 
 #winningImagePopup img {
-    max-width: 400px; /* Increased the size of the image */
+    max-width: 200px; /* Increased the size of the image */
     margin-bottom: 10px;
 }
 
